@@ -1,6 +1,6 @@
 # El Buen Sabor
 ## Análisis de Sistemas II
-Integrantes
+### Integrantes
 - [SOSA, Luciana.](https://github.com/lgsosa) - lg.sosa@alumno.um.edu.ar
 - [MANGIONE, Facundo.]() - f.mangione@alumno.um.edu.ar
 - [MESA, Facundo.]() - fa.mesa@alumno.um.edu.ar
